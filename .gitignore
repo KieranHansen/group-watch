@@ -1,0 +1,48 @@
+# SQLite database (if used in development)               
+*.sqlite3
+# Log files               
+*.log            
+# Environment variables
+*.env                   
+# SQLite database file
+db.sqlite3              
+
+# --- Node (React) Related --- #
+
+# Node.js dependencies
+node_modules/        
+# npm error log   
+npm-debug.log           
+# yarn error log
+yarn-error.log          
+# Cache files
+*.cache           
+# package files
+*-lock.json
+
+
+# --- OS Specific --- #
+
+# macOS specific
+.DS_Store               
+# Windows specific
+Thumbs.db               
+
+# --- IDEs and Editors --- #
+
+# Visual Studio Code config
+.vscode/                
+# IntelliJ IDEA config
+.idea/                  
+# Sublime Text project files
+*.sublime-project       
+# Sublime Text workspace files
+*.sublime-workspace
+
+# --- Miscellaneous --- #
+
+# Backup files
+*.bak                   
+# Vim swap/temporary files
+*.swp                   
+                   
